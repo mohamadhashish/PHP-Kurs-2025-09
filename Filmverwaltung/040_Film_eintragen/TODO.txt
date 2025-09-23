@@ -12,6 +12,8 @@ Minuten und $ einbauen
 
 
 Film eintragen
+
+Cover.Upload
 Film updaten
 Film löschen
 
